@@ -3,7 +3,8 @@ title: Articulo No.4
 description: Explorando la Maravilla Costera de Costa Rica
 author:
   name: Mijail Diaz Bengoa
-  bio: All about Benjamin
+  bio: Estudiante de la Universidad Nacional de Costa Rica.
+  Carrera: Ing. Sistemas
 ---
 # Costa Rica - Un Paraíso Ecoturístico
 

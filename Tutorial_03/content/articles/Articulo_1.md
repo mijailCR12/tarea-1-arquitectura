@@ -3,7 +3,8 @@ title: Articulo No.1
 description: Turismo en Costa Rica
 author:
   name: Mijail Diaz Bengoa
-  bio: All about Benjamin
+  bio: Estudiante de la Universidad Nacional de Costa Rica.
+  Carrera: Ing. Sistemas
 ---
 # Turismo en Costa Rica
 <info-box>

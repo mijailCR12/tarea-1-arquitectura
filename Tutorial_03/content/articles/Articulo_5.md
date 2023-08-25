@@ -3,7 +3,8 @@ title: Articulo No.5
 description: las 6 actividades turísticas más llamativas en Guanacaste
 author:
   name: Mijail Diaz Bengoa
-  bio: All about Benjamin
+  bio: Estudiante de la Universidad Nacional de Costa Rica.
+  Carrera: Ing. Sistemas
 ---
 # las 6 actividades turísticas más llamativas en Guanacaste
 

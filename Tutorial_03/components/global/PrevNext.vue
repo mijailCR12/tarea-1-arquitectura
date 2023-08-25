@@ -14,6 +14,7 @@
 </script>
 
 <template>
+  <center>
   <div class="flex justify-between">
     <NuxtLink
       v-if="prev"
@@ -23,6 +24,9 @@
       {{ prev.title }}
     </NuxtLink>
     <span v-else>&nbsp;</span>
+    <NuxtLink to="/" class="button">
+    Home
+  </NuxtLink>
     <NuxtLink
       v-if="next"
       :to="{ name: 'blog-slug', params: { slug: next.slug } }"
@@ -31,5 +35,5 @@
       {{ next.title }}
     </NuxtLink>
     <span v-else>&nbsp;</span>
-  </div>
+  </div></center>
 </template>

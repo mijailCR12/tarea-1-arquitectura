@@ -3,7 +3,7 @@
     async asyncData({ $content, params }) {
       const article = await $content('articles', params.slug).fetch()
       const [prev, next] = await $content('articles')
-        .only(['title', 'slug'])
+        .only(['title', 'description','slug'])
         .sortBy('createdAt', 'asc')
         .surround(params.slug)
         .fetch()
@@ -27,7 +27,6 @@
   <article class="row">
     <h1>{{ article.title }}</h1>
     <p>{{ article.description }}</p>
-    <img :src="article.img" :alt="article.alt" />
     <p>Article last updated: {{ formatDate(article.updatedAt) }}</p>
     <nuxt-content :document="article" />
     <author :author="article.author" />

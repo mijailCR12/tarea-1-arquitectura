@@ -3,7 +3,8 @@ title: Articulo No.6
 description: Las mejores 5 playas de Guanacaste
 author:
   name: Mijail Diaz Bengoa
-  bio:
+  bio: Estudiante de la Universidad Nacional de Costa Rica.
+  Carrera: Ing. Sistemas
 ---
 
 # Las mejores 5 playas de Guanacaste
