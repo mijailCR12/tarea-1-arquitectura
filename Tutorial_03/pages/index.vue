@@ -22,6 +22,8 @@
   <div class="container">
    <div class="row">
     <h1>Turismo en Costa Rica</h1>
+    <hr>
+    <h1>Indice</h1>
 	<!-- <NuxtLink to="/search">Search page</NuxtLink> -->
     <ul style="list-style: none;">
       <li v-for="article of articles" :key="article.slug">

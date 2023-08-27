@@ -3,21 +3,18 @@
     "name": "search",
     "path": "/search",
     "component": "C:\\\\Users\\\\mijail\\\\Desktop\\\\sistemas distribuidos\\\\tarea-1-arquitectura\\\\Tutorial_03\\\\pages\\\\search.vue",
-    "chunkName": "pages/search",
-    "_name": "_31585169"
+    "chunkName": "pages/search"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\mijail\\\\Desktop\\\\sistemas distribuidos\\\\tarea-1-arquitectura\\\\Tutorial_03\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_67680c21"
+    "chunkName": "pages/index"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug?",
     "component": "C:\\\\Users\\\\mijail\\\\Desktop\\\\sistemas distribuidos\\\\tarea-1-arquitectura\\\\Tutorial_03\\\\pages\\\\blog\\\\_slug.vue",
-    "chunkName": "pages/blog/_slug",
-    "_name": "_b3bdfd92"
+    "chunkName": "pages/blog/_slug"
   }
 ]

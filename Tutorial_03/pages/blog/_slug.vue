@@ -27,7 +27,7 @@
   <article class="row">
     <h1>{{ article.title }}</h1>
     <p>{{ article.description }}</p>
-    <p>Article last updated: {{ formatDate(article.updatedAt) }}</p>
+    <p>Fecha de Creación: {{ formatDate(article.updatedAt) }}</p>
     <nuxt-content :document="article" />
     <author :author="article.author" />
     <prev-next :prev="prev" :next="next" />

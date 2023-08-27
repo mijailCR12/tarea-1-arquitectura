@@ -1,6 +1,6 @@
 ---
 title: Articulo No.1
-description: Turismo en Costa Rica
+description: Este articulo muestra una breve descripcion del turismo en Cosra Rica.
 author:
   name: Mijail Diaz Bengoa
   bio: Estudiante de la Universidad Nacional de Costa Rica.

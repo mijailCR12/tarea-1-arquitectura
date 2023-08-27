@@ -1,6 +1,6 @@
 ---
 title: Articulo No.4
-description: Explorando la Maravilla Costera de Costa Rica
+description: Este articulo muestra una experiencia explorando la zona costera de Costa Rica.
 author:
   name: Mijail Diaz Bengoa
   bio: Estudiante de la Universidad Nacional de Costa Rica.
