@@ -1,0 +1,23 @@
+[
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "C:\\\\Users\\\\mijail\\\\Desktop\\\\sistemas distribuidos\\\\tarea-1-arquitectura\\\\Tarea1\\\\pages\\\\search.vue",
+    "chunkName": "pages/search",
+    "_name": "_1e72f0ab"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\mijail\\\\Desktop\\\\sistemas distribuidos\\\\tarea-1-arquitectura\\\\Tarea1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_24bb7c9f"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug?",
+    "component": "C:\\\\Users\\\\mijail\\\\Desktop\\\\sistemas distribuidos\\\\tarea-1-arquitectura\\\\Tarea1\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_c71cc996"
+  }
+]
